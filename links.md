@@ -1,4 +1,4 @@
-### [diversatech](https://diversatech-website.vercel.app/) <br />
+### [diversatech - a club i run](https://diversatech-website.vercel.app/) <br />
 
 ### [quantum notes](https://github.com/cameron-d28/quantum) <br />
 
